@@ -1,6 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Makefile linguist-generated
+makefile linguist-generated
 *.mk linguist-generated
 *.bat linguist-generated
 *.cmd linguist-generated
