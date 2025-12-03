@@ -3,5 +3,6 @@
 Makefile linguist-generated
 makefile linguist-generated
 *.mk linguist-generated
+*.d linguist-generated
 *.bat linguist-generated
 *.cmd linguist-generated
